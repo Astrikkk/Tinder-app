@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinderAppAPI", "TinderAppAPI\TinderAppAPI.csproj", "{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinderAppAPI", "TinderAppAPI\TinderAppAPI.csproj", "{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A73DB5EA-908B-4536-83CC-99CE0359F437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73DB5EA-908B-4536-83CC-99CE0359F437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73DB5EA-908B-4536-83CC-99CE0359F437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73DB5EA-908B-4536-83CC-99CE0359F437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73DB5EA-908B-4536-83CC-99CE0359F437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
