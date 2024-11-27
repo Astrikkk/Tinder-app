@@ -10,6 +10,7 @@
         Demisexual,
         Pansexual,
         Queer,
-        Questioning
+        Questioning,
+        AttackHelicopter
     }
 }

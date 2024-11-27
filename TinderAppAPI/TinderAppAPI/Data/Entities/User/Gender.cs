@@ -9,11 +9,6 @@ namespace Data.Entities.User
     public enum Gender
     {
         Male,
-        Female,
-        GenderNeutral,
-        NonBinary,
-        Trance,
-        TranceMale,
-        TranceFemale
+        Female
     }
 }

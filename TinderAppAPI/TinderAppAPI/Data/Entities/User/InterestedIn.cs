@@ -4,6 +4,6 @@
     {
         Male,
         Female,
-        Everyone
+        Anyone
     }
 }
