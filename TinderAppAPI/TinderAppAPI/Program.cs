@@ -17,6 +17,20 @@ builder.Services.AddIdentity<User, IdentityRole>(options =>
                .AddDefaultTokenProviders()
                .AddEntityFrameworkStores<TinderDBContext>();
 
+builder.Services.AddIdentity<User, IdentityRole>(options =>
+{
+    options.Password.RequireDigit = true;
+    options.Password.RequiredLength = 6;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireUppercase = false;
+    options.Password.RequireLowercase = true;
+})
+.AddEntityFrameworkStores<TinderDBContext>()
+.AddDefaultTokenProviders();
+
+builder.Services.AddAuthentication(); // Adds authentication middleware
+builder.Services.AddAuthorization(); // Adds authorization middleware
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -33,7 +47,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapControllers();
 
