@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Program.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Program.cs",
+              "RelativeToolTip": "TinderAppAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:57:34.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
