@@ -3,12 +3,6 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Reflection.Emit;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace Data
 {
@@ -25,19 +19,28 @@ namespace Data
         {
             base.OnModelCreating(builder);
 
+            // Унікальний індекс для UserName
             builder.Entity<User>().HasIndex(u => u.UserName).IsUnique();
 
+            // Налаштування зв'язку User <-> ProfilePhoto
             builder.Entity<ProfilePhoto>()
                 .HasOne(p => p.User)
                 .WithMany(u => u.ProfilePhotos)
-                .HasForeignKey(p => p.UserId);
+                .HasForeignKey(p => p.UserId)
+                .OnDelete(DeleteBehavior.Cascade); // Каскадне видалення
 
+            // Налаштування унікальності для інтересів
+            builder.Entity<Interest>()
+                .HasIndex(i => i.Name)
+                .IsUnique();
+
+            // Ініціалізація даних для таблиці Interests
             builder.Entity<Interest>().HasData(GenerateInterests());
         }
 
+        // Генерація початкових інтересів
         private List<Interest> GenerateInterests()
         {
-            var interests = new List<Interest>();
             var interestNames = new[]
             {
                 "Reading", "Traveling", "Cooking", "Photography", "Music",
@@ -46,24 +49,18 @@ namespace Data
                 "Cycling", "Fishing", "Sports", "Meditation", "Learning Languages"
             };
 
+            var interests = new List<Interest>();
             int id = 1;
             foreach (var name in interestNames)
             {
-                for (int i = 1; i <= 10; i++)
+                interests.Add(new Interest
                 {
-                    interests.Add(new Interest
-                    {
-                        Id = id++,
-                        Name = $"{name} {i}"
-                    });
-                }
+                    Id = id++,
+                    Name = name
+                });
             }
 
             return interests;
         }
     }
-
-
-
 }
-

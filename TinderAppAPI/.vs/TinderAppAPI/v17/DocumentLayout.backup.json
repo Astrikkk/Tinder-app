@@ -3,88 +3,32 @@
   "WorkspaceRootPath": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128121142_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TinderAppAPI\\Migrations\\20241128121142_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\services\\accountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\services\\accountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\tinderappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\tinderappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\tinderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\tinderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\interestedin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\interestedin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\tinderappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\tinderappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128103602_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TinderAppAPI\\Migrations\\20241128103602_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\profilephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\profilephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\lookingfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\lookingfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\data\\entities\\user\\sexualorientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\data\\entities\\user\\sexualorientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|d:\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\project\\tinder-app\\tinderappapi\\tinderappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5BF285-89BC-4305-A56A-DDB8CE220DFA}|TinderAppAPI\\TinderAppAPI.csproj|solutionrelative:tinderappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,279 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241128121142_Test2.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128121142_Test2.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Migrations\\20241128121142_Test2.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128121142_Test2.cs",
-              "RelativeToolTip": "TinderAppAPI\\Migrations\\20241128121142_Test2.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:11:42.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AccountsService.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Services\\AccountsService.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Services\\AccountsService.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Services\\AccountsService.cs",
-              "RelativeToolTip": "TinderAppAPI\\Services\\AccountsService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAzwDcAAAAmAAAAAAAAAA==",
+              "Title": "20241128192907_Test4.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs",
+              "RelativeToolTip": "TinderAppAPI\\Data\\Migrations\\20241128192907_Test4.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:01:02.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\DTO\\LoginResponseDto.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\LoginResponseDto.cs",
-              "RelativeToolTip": "TinderAppAPI\\DTO\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:00:36.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Program.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Program.cs",
-              "RelativeToolTip": "TinderAppAPI\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T15:43:20.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\LoginDto.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\DTO\\LoginDto.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\LoginDto.cs",
-              "RelativeToolTip": "TinderAppAPI\\DTO\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:08:52.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\DTO\\RegisterDto.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\RegisterDto.cs",
-              "RelativeToolTip": "TinderAppAPI\\DTO\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:08:46.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TinderAppAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:05:37.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TinderAppAPI\\appsettings.json",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\appsettings.json",
-              "RelativeToolTip": "TinderAppAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T15:44:51.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\User.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\User.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\User.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:24.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TinderDBContext.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\TinderDBContext.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\TinderDBContext.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\TinderDBContext.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\TinderDBContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA6wBsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:22:42.218Z",
+              "WhenOpened": "2024-11-28T19:29:08.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TinderAppAPI.csproj",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
-              "RelativeDocumentMoniker": "TinderAppAPI\\TinderAppAPI.csproj",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
-              "RelativeToolTip": "TinderAppAPI\\TinderAppAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-27T17:34:52.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InterestedIn.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\InterestedIn.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\InterestedIn.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\InterestedIn.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\InterestedIn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:26.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TinderAppAPI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:16:10.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TinderAppAPI.http",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.http",
-              "RelativeDocumentMoniker": "TinderAppAPI\\TinderAppAPI.http",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.http",
-              "RelativeToolTip": "TinderAppAPI\\TinderAppAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-27T17:34:40.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241128103602_test1.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128103602_test1.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Migrations\\20241128103602_test1.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Migrations\\20241128103602_test1.cs",
-              "RelativeToolTip": "TinderAppAPI\\Migrations\\20241128103602_test1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwEwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:36:03.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TinderAppAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T10:21:59.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Interest.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\Interest.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\Interest.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\Interest.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\Interest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:27.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\Gender.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\Gender.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\Gender.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:28.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LookingFor.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\LookingFor.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\LookingFor.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\LookingFor.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\LookingFor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:25.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "ProfilePhoto.cs",
               "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\ProfilePhoto.cs",
               "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\ProfilePhoto.cs",
               "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\ProfilePhoto.cs",
               "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\ProfilePhoto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:24.671Z",
+              "WhenOpened": "2024-11-28T19:12:40.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SexualOrientation.cs",
-              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\SexualOrientation.cs",
-              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\SexualOrientation.cs",
-              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\SexualOrientation.cs",
-              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\SexualOrientation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\User.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\Entities\\User\\User.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\Entities\\User\\User.cs",
+              "RelativeToolTip": "TinderAppAPI\\Data\\Entities\\User\\User.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:25:23.151Z",
+              "WhenOpened": "2024-11-28T19:04:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TinderAppAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:04:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "TinderAppAPI\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:04:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsService.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Services\\AccountsService.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Services\\AccountsService.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Services\\AccountsService.cs",
+              "RelativeToolTip": "TinderAppAPI\\Services\\AccountsService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:02:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinderDBContext.cs",
+              "DocumentMoniker": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\TinderDBContext.cs",
+              "RelativeDocumentMoniker": "TinderAppAPI\\Data\\TinderDBContext.cs",
+              "ToolTip": "D:\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0438\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\Data\\TinderDBContext.cs",
+              "RelativeToolTip": "TinderAppAPI\\Data\\TinderDBContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:02:14.282Z",
               "EditorCaption": ""
             }
           ]
