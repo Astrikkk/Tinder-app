@@ -11,14 +11,9 @@ namespace Data.Entities.User
 {
     public class User : IdentityUser
     {
-        public int Id { get; set; }
 
-        [Required]
-        [MaxLength(22)]
-        public string Name { get; set; }
 
-        [Required]
-        public DateTime BirthDay { get; set; }
+        public DateTime? BirthDay { get; set; }
 
         public Gender Gender { get; set; }
 
@@ -28,8 +23,8 @@ namespace Data.Entities.User
 
         public SexualOrientation SexualOrientation { get; set; }
 
-        public virtual ICollection<Interest> Interests { get; set; } = new List<Interest>();
+        public virtual ICollection<Interest>? Interests { get; set; } = new List<Interest>();
 
-        public virtual ICollection<ProfilePhoto> ProfilePhotos { get; set; } = new List<ProfilePhoto>();
+        public virtual ICollection<ProfilePhoto>? ProfilePhotos { get; set; } = new List<ProfilePhoto>();
     }
 }

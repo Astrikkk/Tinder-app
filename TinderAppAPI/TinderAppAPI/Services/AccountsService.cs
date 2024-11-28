@@ -1,0 +1,66 @@
+﻿
+using Data.Entities.User;
+using Microsoft.AspNetCore.Identity;
+using System.Net;
+
+namespace learning_platform_back.Services
+{
+    public interface IAccountsService
+    {
+        Task Register(RegisterDto model);
+        Task Login(LoginDto model);
+        Task Logout();
+    }
+
+    public class AccountsService : IAccountsService
+    {
+        private readonly UserManager<User> userManager;
+        private readonly SignInManager<User> signInManager;
+
+        public AccountsService(UserManager<User> userManager, SignInManager<User> signInManager)
+        {
+            this.userManager = userManager;
+            this.signInManager = signInManager;
+        }
+
+        public async Task Login(LoginDto model)
+        {
+            var user = await userManager.FindByEmailAsync(model.Email);
+
+            if (user == null || !await userManager.CheckPasswordAsync(user, model.Password))
+                throw new Exception("Invalid user login or password.");
+
+            await signInManager.SignInAsync(user, true);
+
+            // return
+        }
+
+        public async Task Logout()
+        {
+            await signInManager.SignOutAsync();
+        }
+        
+        public async Task Register(RegisterDto model)
+        {
+            var user = await userManager.FindByEmailAsync(model.Email);
+
+            if (user != null)
+                throw new Exception("Email is already exists.");
+
+            // create user
+            var newUser = new User()
+            {
+                Email = model.Email,
+                UserName = model.Email,
+                BirthDay = model.BirthDay,
+                Gender = model.Gender,
+
+            };
+
+            var result = await userManager.CreateAsync(newUser, model.Password);
+
+            if (!result.Succeeded)
+                throw new Exception(string.Join(" ", result.Errors.Select(x => x.Description)));
+        }
+    }
+}

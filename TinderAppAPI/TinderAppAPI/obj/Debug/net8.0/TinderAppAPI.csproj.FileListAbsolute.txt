@@ -147,8 +147,6 @@ D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\
 D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Data.dll
-D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Data.pdb
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\appsettings.Development.json
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\appsettings.json
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\TinderAppAPI.exe
@@ -298,3 +296,5 @@ D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\obj\Debug\net8.0\r
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\obj\Debug\net8.0\TinderAppAPI.pdb
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\obj\Debug\net8.0\TinderAppAPI.genruntimeconfig.cache
 D:\Code\IT-Step-Projects\Tinder-app\TinderAppAPI\TinderAppAPI\obj\Debug\net8.0\ref\TinderAppAPI.dll
+D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Дипломниу проект\Project\Tinder-app\TinderAppAPI\TinderAppAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
