@@ -1,5 +1,4 @@
 ﻿using Data.Entities.User;
-using System;
 using System.ComponentModel.DataAnnotations;
 
 public class RegisterDto
@@ -20,4 +19,27 @@ public class RegisterDto
 
     [Required]
     public Gender Gender { get; set; }
+
+    [Required]
+    public InterestedIn InterestedIn { get; set; }
+
+    [Required]
+    public LookingFor LookingFor { get; set; }
+
+    [Required]
+    public SexualOrientation SexualOrientation { get; set; }
+
+    public List<InterestDto> Interests { get; set; }
+    public List<ProfilePhotoDto> ProfilePhotos { get; set; }
+}
+
+public class InterestDto
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+}
+
+public class ProfilePhotoDto
+{
+    public string Path { get; set; }
 }

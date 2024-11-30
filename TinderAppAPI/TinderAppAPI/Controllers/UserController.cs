@@ -1,66 +1,49 @@
-﻿using Data.Entities.User;
+﻿using Data;
+using Data.Entities.User;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using BCrypt.Net;
+using learning_platform_back.Services;
+
 
 [Route("api/[controller]")]
 [ApiController]
 public class UserController : ControllerBase
 {
-    private readonly UserManager<User> _userManager;
-    private readonly SignInManager<User> _signInManager;
+    private readonly IAccountsService accountsService;
 
-    public UserController(UserManager<User> userManager, SignInManager<User> signInManager)
+    public UserController(IAccountsService accountsService)
     {
-        _userManager = userManager;
-        _signInManager = signInManager;
+        this.accountsService = accountsService;
     }
 
-    // Registration
     [HttpPost("register")]
-    public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
+    public async Task<IActionResult> Register([FromBody] RegisterDto model)
     {
-        if (!ModelState.IsValid)
-            return BadRequest(ModelState);
-
-        var user = new User
-        {
-            UserName = registerDto.Email,
-            Email = registerDto.Email,
-            Name = registerDto.Name,
-            BirthDay = registerDto.BirthDay,
-            Gender = registerDto.Gender
-        };
-
-        var result = await _userManager.CreateAsync(user, registerDto.Password);
-
-        if (!result.Succeeded)
-            return BadRequest(result.Errors);
-
-        return Ok("User registered successfully");
+        await accountsService.Register(model);
+        return Ok();
     }
 
-    // Login
     [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
+    public async Task<IActionResult> Login([FromBody] LoginDto model)
     {
-        if (!ModelState.IsValid)
-            return BadRequest(ModelState);
-
-        var result = await _signInManager.PasswordSignInAsync(loginDto.Email, loginDto.Password, loginDto.RememberMe, false);
-
-        if (!result.Succeeded)
-            return Unauthorized("Invalid login attempt");
-
-        return Ok("Login successful");
+        await accountsService.Login(model);
+        // to return 
+        return Ok();
+        //return Ok(await accountsService.Login(model));
     }
 
-    // Logout
     [HttpPost("logout")]
-    [Authorize]
     public async Task<IActionResult> Logout()
     {
-        await _signInManager.SignOutAsync();
-        return Ok("Logout successful");
+        await accountsService.Logout();
+        return Ok();
     }
+
 }

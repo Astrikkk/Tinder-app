@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj": {}
+    "D:\\Дипломниу проект\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj": {}
   },
   "projects": {
-    "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj": {
+    "D:\\Дипломниу проект\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
+        "projectUniqueName": "D:\\Дипломниу проект\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
         "projectName": "TinderAppAPI",
-        "projectPath": "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
-        "packagesPath": "C:\\Users\\ukrvl\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\IT-Step-Projects\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\obj\\",
+        "projectPath": "D:\\Дипломниу проект\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\TinderAppAPI.csproj",
+        "packagesPath": "C:\\Users\\puzyr\\.nuget\\packages\\",
+        "outputPath": "D:\\Дипломниу проект\\Project\\Tinder-app\\TinderAppAPI\\TinderAppAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ukrvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\puzyr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,11 +46,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
             },
@@ -68,9 +78,17 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             }
           },
           "imports": [
